@@ -35,5 +35,6 @@ Get a JWT token from Pinata whith pinning endpoints enabled and configure it in 
 ### Run the app
 To run this app locally, run:
 ```shell
+yarn install
 yarn dev
 ```
